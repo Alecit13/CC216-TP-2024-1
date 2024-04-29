@@ -1,5 +1,5 @@
 <h2>Objetivo</h2>
-
+Realizar un análisis exploratorio de un conjunto de datos (EDA), creando visualizaciones,preparando los datos y obteniendo inferencias básicas utilizando R/RStudio como herramienta desoftware.
 <h2>Integrantes</h2>
 - Carbajal Rojas Andrés Eduardo<br>
 - Cuadros Contreras Freddy Alejandro<br>
