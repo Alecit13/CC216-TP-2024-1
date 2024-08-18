@@ -1,3 +1,9 @@
+# Introducción 
+Este análisis explora la demanda de dos tipos de hoteles, urbano y resort, utilizando datos pre
+pandemia para identificar patrones en los perfiles de las personas que hacen reservaciones, la
+demanda por tipo de habitación y los canales de reserva más utilizados, entre otros aspectos. Al
+comparar estos datos con tendencias actuales post pandemia, podemos obtener insights
+valiosos sobre cómo han cambiado las preferencias y comportamientos de los clientes.
 # Objetivo
 Realizar un análisis exploratorio de un conjunto de datos (EDA), creando visualizaciones,preparando los datos y obteniendo inferencias básicas utilizando R/RStudio como herramienta desoftware.
 # Integrantes
